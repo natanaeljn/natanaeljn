@@ -18,7 +18,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=ApiCad&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=SpringMvcJn&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=AttornatusVaga&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=ApiReceitaSemGluten&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=CrudComServlet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=chess-game&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=natanaeljn&repo=projetoSpringRestBasico&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
